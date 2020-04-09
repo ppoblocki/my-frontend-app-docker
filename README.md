@@ -1,4 +1,5 @@
 # My React App - Patryk Pobłocki
+[![Build Status](https://travis-ci.com/ppoblocki/my-frontend-app-docker.svg?branch=master)](https://travis-ci.com/ppoblocki/my-frontend-app-docker)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
